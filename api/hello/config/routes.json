@@ -1,0 +1,12 @@
+{
+    "routes": [
+      {
+        "method": "GET",
+        "path": "/login",
+        "handler": "Login.index",
+        "config": {
+          "policies": []
+        }
+      }
+    ]
+}
